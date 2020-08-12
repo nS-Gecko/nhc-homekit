@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinbungeneers/nhc-homekit.git"
+    "url": "https://github.com/nS_Gecko/nhc-homekit.git"
   },
   "keywords": [
     "Homekit",
@@ -16,9 +16,9 @@
   "author": "Kevin Bungeneers <kevin.bungeneers@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kevinbungeneers/nhc-homekit/issues"
+    "url": "https://github.com/nS-Gecko/nhc-homekit/issues"
   },
-  "homepage": "https://github.com/kevinbungeneers/nhc-homekit#readme",
+  "homepage": "https://github.com/nS-Gecko/nhc-homekit#readme",
   "dependencies": {
     "commander": "^2.9.0",
     "hap-nodejs": "^0.4.21",
